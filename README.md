@@ -116,8 +116,8 @@ Trabajo Práctico Integrador realizado para la materia **Programación II**.
 
 ## Enlaces
 
-- **Video de presentación:** __________________________________
-- **Enlace PDF:** __________________________________
+- **Video de presentación:** https://www.youtube.com/watch?v=1b7WbntVs3Q
+- **Enlace PDF:** https://drive.google.com/file/d/1bbqz0NfDCjzXRwnVf3k5mkdlkxnjDjoO/view?usp=sharing
 
 ## Bibliografía y documentación
 
